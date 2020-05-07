@@ -30,6 +30,8 @@ response : {
        "token":      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYjI1ZGIzNGUyMzQ3MmNjODJmMjM4YSIsImlhdCI6MTU4ODc0NzY5OX0.qrIsUoQ_vhwlVrpHIPUy8EHCQWz77tUOzd0tRIBAg8s"
 }
 
+//To make any further requests please add a header with name : Authorization and value : Bearer token(that you recieved as response while signing Up or In)
+
 ## SEND MESSAGE : 
 
 //FOR PUBLIC MESSAGE
